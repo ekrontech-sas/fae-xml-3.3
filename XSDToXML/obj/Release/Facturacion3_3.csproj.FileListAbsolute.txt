@@ -1,0 +1,23 @@
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\XSDToXML.exe.config
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\XSDToXML.exe
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\XSDToXML.pdb
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\mscorlib.dll
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\System.Net.Http.dll
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\System.Net.Http.xml
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\es\mscorlib.resources.dll
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\es\System.Net.Http.resources.dll
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\normidna.nlp
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\normnfc.nlp
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\normnfd.nlp
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\normnfkc.nlp
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Release\normnfkd.nlp
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Release\Facturacion3_3.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Release\XSDToXML.exe
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Release\XSDToXML.pdb
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\bin\Release\XSDToXML.exe.config
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\bin\Release\XSDToXML.exe
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\bin\Release\XSDToXML.pdb
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\obj\Release\Facturacion3_3.csprojAssemblyReference.cache
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\obj\Release\Facturacion3_3.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\obj\Release\XSDToXML.exe
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\obj\Release\XSDToXML.pdb

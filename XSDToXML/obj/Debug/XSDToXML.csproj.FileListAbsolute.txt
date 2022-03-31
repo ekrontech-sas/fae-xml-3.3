@@ -1,0 +1,7 @@
+C:\Users\Bioxor\source\repos\XSDToXML\XSDToXML\bin\Debug\XSDToXML.exe.config
+C:\Users\Bioxor\source\repos\XSDToXML\XSDToXML\bin\Debug\XSDToXML.exe
+C:\Users\Bioxor\source\repos\XSDToXML\XSDToXML\bin\Debug\XSDToXML.pdb
+C:\Users\Bioxor\source\repos\XSDToXML\XSDToXML\obj\Debug\XSDToXML.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\XSDToXML\XSDToXML\obj\Debug\XSDToXML.exe
+C:\Users\Bioxor\source\repos\XSDToXML\XSDToXML\obj\Debug\XSDToXML.pdb
+C:\Users\Bioxor\source\repos\XSDToXML\XSDToXML\obj\Debug\XSDToXML.csprojResolveAssemblyReference.cache

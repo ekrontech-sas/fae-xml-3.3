@@ -1,0 +1,58 @@
+C:\Users\Bioxor\Google Drive\publico\tutoriales\Facturacion3.3-tutorial-hdeleon\XSDToXML\bin\Debug\XSDToXML.exe.config
+C:\Users\Bioxor\Google Drive\publico\tutoriales\Facturacion3.3-tutorial-hdeleon\XSDToXML\bin\Debug\XSDToXML.exe
+C:\Users\Bioxor\Google Drive\publico\tutoriales\Facturacion3.3-tutorial-hdeleon\XSDToXML\bin\Debug\XSDToXML.pdb
+C:\Users\Bioxor\Google Drive\publico\tutoriales\Facturacion3.3-tutorial-hdeleon\XSDToXML\obj\Debug\Facturacion3_3.csprojResolveAssemblyReference.cache
+C:\Users\Bioxor\Google Drive\publico\tutoriales\Facturacion3.3-tutorial-hdeleon\XSDToXML\obj\Debug\Facturacion3_3.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\Google Drive\publico\tutoriales\Facturacion3.3-tutorial-hdeleon\XSDToXML\obj\Debug\XSDToXML.exe
+C:\Users\Bioxor\Google Drive\publico\tutoriales\Facturacion3.3-tutorial-hdeleon\XSDToXML\obj\Debug\XSDToXML.pdb
+C:\Users\Bioxor\source\repos\Facturacion3.3-tutorial-hdeleon\XSDToXML\bin\Debug\XSDToXML.exe.config
+C:\Users\Bioxor\source\repos\Facturacion3.3-tutorial-hdeleon\XSDToXML\bin\Debug\XSDToXML.exe
+C:\Users\Bioxor\source\repos\Facturacion3.3-tutorial-hdeleon\XSDToXML\bin\Debug\XSDToXML.pdb
+C:\Users\Bioxor\source\repos\Facturacion3.3-tutorial-hdeleon\XSDToXML\obj\Debug\Facturacion3_3.csprojResolveAssemblyReference.cache
+C:\Users\Bioxor\source\repos\Facturacion3.3-tutorial-hdeleon\XSDToXML\obj\Debug\Facturacion3_3.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Facturacion3.3-tutorial-hdeleon\XSDToXML\obj\Debug\XSDToXML.exe
+C:\Users\Bioxor\source\repos\Facturacion3.3-tutorial-hdeleon\XSDToXML\obj\Debug\XSDToXML.pdb
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.exe.config
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\XSDToXML.exe
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\XSDToXML.pdb
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.exe
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.pdb
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\mscorlib.dll
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\System.Net.Http.dll
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\System.Net.Http.xml
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\es\mscorlib.resources.dll
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\es\System.Net.Http.resources.dll
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\normidna.nlp
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\normnfc.nlp
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\normnfd.nlp
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\normnfkc.nlp
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\normnfkd.nlp
+D:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\Facturacion3_3.csprojResolveAssemblyReference.cache
+C:\Users\lazcano\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.exe.config
+C:\Users\lazcano\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.exe
+C:\Users\lazcano\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.pdb
+C:\Users\lazcano\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\Facturacion3_3.csprojAssemblyReference.cache
+C:\Users\lazcano\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\Facturacion3_3.csproj.CoreCompileInputs.cache
+C:\Users\lazcano\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\XSDToXML.exe
+C:\Users\lazcano\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\XSDToXML.pdb
+S:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\Facturacion3_3.csprojAssemblyReference.cache
+S:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\Facturacion3_3.csproj.CoreCompileInputs.cache
+S:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\XSDToXML.exe
+S:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\obj\Debug\XSDToXML.pdb
+S:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.exe.config
+S:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.exe
+S:\Dropbox\PROYECTOS\LUIS LEONARDO\Productos\Desarrollo Facturacion Electronica\Generador de XMLS\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.pdb
+C:\Program Files (x86)\ekrontech\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.exe.config
+C:\Program Files (x86)\ekrontech\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.exe
+C:\Program Files (x86)\ekrontech\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.pdb
+C:\Program Files (x86)\ekrontech\Facturacion3.3\XSDToXML\obj\Debug\Facturacion3_3.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\ekrontech\Facturacion3.3\XSDToXML\obj\Debug\XSDToXML.exe
+C:\Program Files (x86)\ekrontech\Facturacion3.3\XSDToXML\obj\Debug\XSDToXML.pdb
+C:\Program Files (x86)\ekrontech\Facturacion3.3\XSDToXML\obj\Debug\Facturacion3_3.csprojAssemblyReference.cache
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.exe.config
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.exe
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\bin\Debug\XSDToXML.pdb
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\obj\Debug\Facturacion3_3.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\obj\Debug\XSDToXML.exe
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\obj\Debug\XSDToXML.pdb
+C:\Program Files (x86)\Facturacion3.3\XSDToXML\obj\Debug\Facturacion3_3.csprojAssemblyReference.cache
